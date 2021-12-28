@@ -1,0 +1,54 @@
+.footer {
+  padding: 3rem;
+  display: flex;
+  background-color: #e7e4f8;
+}
+.contact {
+  margin-right: 8rem;
+}
+.contact h2 {
+  margin: 0;
+}
+.signup-email-cont {
+  height: 40px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  margin: 2rem 0;
+  background-color: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.signup-email-cont input {
+  height: 100%;
+  width: 70%;
+  padding-left: 1rem;
+  outline: none;
+  border: transparent;
+}
+.signup-email-cont button {
+  height: 95%;
+  width: 35%;
+  border: transparent;
+  border-radius: 5px;
+  background-color: #fb2e86;
+  color: #fff;
+}
+
+.contact p {
+  color: #8a8fb9;
+}
+
+/* Categories */
+.categories {
+  margin-right: 6rem;
+}
+
+ul {
+  margin-top: 2rem;
+  list-style-type: none;
+  padding-left: 0;
+}
+li {
+  margin: 0.5rem 0;
+}
